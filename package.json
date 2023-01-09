@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/nodejs-design-patterns-book/nodejs-design-patterns-book#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-cache-assets": "^2.0.3",
     "@11ty/eleventy-img": "^0.5.0",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
